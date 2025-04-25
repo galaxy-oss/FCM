@@ -1,0 +1,6 @@
+train: C:\Users\13165\Desktop\ultralytics-main\ultralytics\my_dates\images\train
+val: C:\Users\13165\Desktop\ultralytics-main\ultralytics\my_dates\images\val
+# number of classes
+nc: 2
+# class names
+names: ['mask', 'no_mask']

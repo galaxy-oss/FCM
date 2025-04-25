@@ -1,0 +1,7 @@
+train: /home/zyh/data/xy/my_dates_6417/train/
+val: /home/zyh/data/xy/my_dates_6417/valid/
+test: /home/zyh/data/xy/my_dates_6417/test/
+# number of classes
+nc: 10
+# class names
+names: ["pedestrain","people","bicycle","car","van","truck","tricycle","awning-tricycle","bus","motor"]
